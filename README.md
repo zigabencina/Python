@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zigabencina
-- 👀 I’m interested in C# programming
-- 🌱 I’m currently learning C# in unity
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python algorithms
 
 - 📫 How to reach me zigabencina1@gmail.com
 
