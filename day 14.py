@@ -1,0 +1,3 @@
+array = ["NNCB"]
+
+print(array)
